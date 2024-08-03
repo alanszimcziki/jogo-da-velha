@@ -21,15 +21,15 @@ O "Jogo Da Velha" é uma aplicação que permite dois jogadores competirem no jo
 * Digite o nome do Jogador 1 no campo correspondente a "X".
  * Digite o nome do Jogador 2 no campo correspondente a "O".
 
-3. **Inicie o Jogo:**
+2. **Inicie o Jogo:**
 * Clique no botão "Começar" para iniciar o jogo.
 
-5. **Faça as Jogadas:**
+3. **Faça as Jogadas:**
 *  Clique em uma das áreas do tabuleiro para fazer sua jogada.
 *  Os jogadores se alternam automaticamente após cada jogada.
 
-7. **Verifique o Resultado:**
+4. **Verifique o Resultado:**
 * O jogo informará se um jogador venceu ou se terminou em empate.
 
-9. **Reinicie o Jogo:**
+5. **Reinicie o Jogo:**
 * Clique no botão "Começar" novamente para reiniciar o jogo.
